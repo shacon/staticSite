@@ -1,2 +1,2 @@
 # staticSite
-static site
+Static site testing
